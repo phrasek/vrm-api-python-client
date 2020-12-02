@@ -5,4 +5,5 @@ dist
 *.swp
 *.swn
 *.egg-info
+.vscode
 .idea
